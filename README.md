@@ -1,6 +1,6 @@
 # SimpleLinearRegression
 
-# Problem
+# Problem:  Predict employee salary using simple linear regression
 
 Train this simple linear regression model to understand the correlations between numbers
 
